@@ -8,30 +8,30 @@
 
 - 系统首页
 
-  ![image-20210527125700362](https://github.com/xiemin-1122/react_project/blob/master/READMEImgs/image-20210527125700362.png?raw=true)
+  ![image-20210527125700362](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527125700362.png?raw=true)
 
 - 品类管理
 
-  ![image-20210527125951123](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527125951123.png)
+  ![image-20210527125951123](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527125951123.png?raw=true)
 
 - 商品管理
 
-  ![image-20210527130126050](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130126050.png)
+  ![image-20210527130126050](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130126050.png?raw=true)
 
-  ![image-20210527130145652](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130145652.png)
+  ![image-20210527130145652](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130145652.png?raw=true)
 
-  ![image-20210527130235323](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130235323.png)
+  ![image-20210527130235323](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130235323.png?raw=true)
 
 - 用户管理
 
-- ![image-20210527130255248](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130255248.png)
+- ![image-20210527130255248](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130255248.png?raw=true)
 
 - 角色管理
 
-  ![image-20210527130616708](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130616708.png)
+  ![image-20210527130616708](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130616708.png?raw=true)
 
-  ![image-20210527130627586](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130627586.png)
+  ![image-20210527130627586](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130627586.png?raw=true)
 
 - 图形图标
 
-![image-20210527130648064](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130648064.png)
+![image-20210527130648064](https://github.com/xiemin-1122/READMEImgs/blob/main/react_project/image-20210527130648064.png?raw=true)
