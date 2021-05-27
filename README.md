@@ -8,7 +8,7 @@
 
 - 系统首页
 
-  ![image-20210527125700362](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527125700362.png)
+  ![image-20210527125700362](https://github.com/xiemin-1122/react_project/blob/master/READMEImgs/image-20210527125700362.png?raw=true)
 
 - 品类管理
 
