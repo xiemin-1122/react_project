@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# 后台管理系统
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+接口文档：https://www.showdoc.com.cn/128719739414963?page_id=2516997897914014
 
-## Available Scripts
+该项目通过create-react-app创建，主要使用redux组件和Antd框架等一些开源第三方实现，采用模块化、组件化、工程化的模式开发。实现用户管理、商品分类管理、权限管理等功能。
 
-In the project directory, you can run:
+## 运行截图
 
-### `yarn start`
+- 系统首页
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ![image-20210527125700362](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527125700362.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 品类管理
 
-### `yarn test`
+  ![image-20210527125951123](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527125951123.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 商品管理
 
-### `yarn build`
+  ![image-20210527130126050](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130126050.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ![image-20210527130145652](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130145652.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ![image-20210527130235323](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130235323.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 用户管理
 
-### `yarn eject`
+- ![image-20210527130255248](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130255248.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- 角色管理
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ![image-20210527130616708](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130616708.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  ![image-20210527130627586](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130627586.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- 图形图标
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image-20210527130648064](C:\Users\xm\AppData\Roaming\Typora\typora-user-images\image-20210527130648064.png)
